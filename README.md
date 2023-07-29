@@ -1,6 +1,6 @@
 # Project Kapu$ta :money_with_wings:
 
-_Kapu$ta is the name of the project at the end of the QA engineer course at GoIT Poland, which was performed individually by each student, and its completion was a requirement for successfully finishing the course. The objective of the project was to test a web application that tracks our monthly earnings and expenses. We had to view a technical specification for the website and its graphic design in Figma. I focused mainly on functional tests and the compliance of the site with the graphic design. I also included my comments to the technical specification that would require clarification._
+_Kapu$ta is the name of the project at the end of the <b>QA engineer</b> course at GoIT Poland, which was performed individually by each student, and its completion was a requirement for successfully finishing the course. The objective of the project was to test a web application that tracks our monthly earnings and expenses. We had to view a technical specification for the website and its graphic design in Figma. I focused mainly on functional tests and the compliance of the site with the graphic design. I also included my comments to the technical specification that would require clarification._
 
 ### Take a look :eyes:
 
